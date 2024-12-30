@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410001911097",
+    "project_id": "foodapp-bd5b0",
+    "storage_bucket": "foodapp-bd5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410001911097:android:dbb9aaa0566e823b9dcce8",
+        "android_client_info": {
+          "package_name": "com.example.pmhfoodrecipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHBreFWvuWYDOIJUG-E1ZwRHh73qQhLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
